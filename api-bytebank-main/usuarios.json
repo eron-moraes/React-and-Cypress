@@ -1,10 +1,1 @@
-{
-  "usuarios": [
-    {
-      "id": 1,
-      "email": "neilton@alura.com",
-      "senha": "123456",
-      "nome": "Neilton Seguins"
-    }
-  ]
-}
+{"usuarios":[{"id":1,"email":"neilton@alura.com","senha":"123456","nome":"Neilton Seguins"},{"id":2,"email":"eron.moraes7@gmail.com","senha":"qwe123","nome":"Eron"}]}
